@@ -374,7 +374,7 @@ ul {
   margin-bottom: 10rem;
   display: block;
   height: 200px;
-  background-image: url(/assets/images/city1.jpg);
+  background-image: url(../../assets/images/city1.jpg);
   background-size: cover;
   background-position: center;
 }
